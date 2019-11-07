@@ -13,5 +13,7 @@ public void hindilanguage() {
 public static void main(String[] args) {
 	StateDetails l = new StateDetails();
 	l.englislanguage();l.hindilanguage();l.southindia();l.nothindia();l.tmillanguage();
+	System.out.println("hai");
+	System.out.println("hello");
 }
 }
