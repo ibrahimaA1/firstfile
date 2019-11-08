@@ -10,8 +10,18 @@ public void englislanguage() {
 public void hindilanguage() {
 	System.out.println("maharastra");
 }
+protected void tamil() {
+	System.out.println("tamil");
+
+}
+
+
+
 public static void main(String[] args) {
 	StateDetails l = new StateDetails();
 	l.englislanguage();l.hindilanguage();l.southindia();l.nothindia();l.tmillanguage();
+	l.tamil();
 }
+	
 }
+
